@@ -1,2 +1,2 @@
 # staj_backend_proje
-The project I worked on during my internship
+This is a Visual Studio 2022 Web Api project. The main idea of the project is that it serves as a database for a library to keep the neccessary information of its books, staff and visitors. It has three main data tables which are Books, Users and UserRoles. First the project requires a Login info from the user. If the user is saved in the database then they get access to methods like add/delete a book, edit users etc. 
